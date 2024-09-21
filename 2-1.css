@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    border: 0;
+  }
+
+header {
+  background-color: #EAEAEA;
+  padding: 5px;
+  padding-bottom: 50px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+footer {
+  clear: both;
+  background-color: black;
+  text-align: center;
+  height: 30px;
+}
+
+.left-column {
+  float: left;
+  width: 200px;
+  padding: 5px;
+  line-height: 150%;
+  background-color: #c8fc98;
+}
+
+.content-column {
+  padding-left: 215px;
+  line-height: 150%;
+}

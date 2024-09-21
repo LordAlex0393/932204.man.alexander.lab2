@@ -1,0 +1,20 @@
+.main {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #008000;
+    background-color: #00FFFF;
+}
+
+.one {
+    padding: 5px 0px 5px 0px;
+    margin-right: 10px;
+    min-width: 15%;
+    background-color: #FFE4C4;
+    float: left;
+}
+
+.two {
+    display: inline-block;
+    max-width: 84%;
+    background-color: #A9A9A9;
+}

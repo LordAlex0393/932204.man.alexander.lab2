@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.block {
+    height: 85px;
+    width: 180px;
+    margin: 30px 0 0 30px;
+    display: inline-block;
+    background-color: #7FFFD4;
+}
+
+.bottom {
+    width: 99%;
+    margin: 25px 8px 0 8px;
+    background-color: #faebd7;
+}

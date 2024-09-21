@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+.float_box {
+    margin: 20px;
+    float: left;
+    width: 200px;
+    height: 100px;
+    background-color: #7FFFD4;
+}
+
+.clear_box {
+
+    clear: both;
+    width: 100%;
+    background-color: #FFE4C4;
+}

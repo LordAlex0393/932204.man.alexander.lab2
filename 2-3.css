@@ -1,0 +1,10 @@
+* {
+  margin: 10px;
+}
+
+div {
+  margin: auto;
+  color: white;
+  width: 630px;
+  background-color: #0000FF;
+}

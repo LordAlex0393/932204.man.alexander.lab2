@@ -1,0 +1,12 @@
+*
+{
+	margin:10px;
+}
+
+div{
+	margin:auto;
+	color:white;
+	width:100%;
+	max-width: 700px;
+	background-color:#0000FF;	
+}

@@ -1,0 +1,63 @@
+* {
+    margin: auto;
+    margin-left: 5px;
+}
+
+body {
+    color: white;
+}
+
+.one {
+    position: static;
+    width: 150px;
+    height: 100px;
+    background-color: #8A2BE2;
+
+}
+
+.two {
+
+    position: relative;
+    width: 150px;
+    height: 100px;
+    background-color: #8B0000;
+
+}
+
+.three {
+    position: relative;
+    left: 25px;
+    top: -25px;
+    width: 150px;
+    height: 100px;
+    background-color: #CD853F;
+
+
+}
+
+.four {
+    position: relative;
+    width: 500px;
+    height: 350px;
+    background-color: #CD5C5C;
+
+}
+
+.five {
+    position: absolute;
+    right: 0;
+    top: 115px;
+    width: 300px;
+    height: 200px;
+    background-color: #4B0082;
+
+}
+
+.six {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+    background-color: #228B22;
+}

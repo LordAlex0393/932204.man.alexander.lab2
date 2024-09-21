@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  border: 0;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  background-color: #EAEAEA;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+  padding-bottom: 50px;
+}
+
+.left-column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+  background-color: #C8FC98;
+}
+
+.content-column {
+  padding-right: 215px;
+  padding-left: 360px;
+}
+
+.right-column {
+  float: right;
+  width: 200px;
+  padding: 5px;
+  background-color: #FDE95E;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  background-color: black;
+}

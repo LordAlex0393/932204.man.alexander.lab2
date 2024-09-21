@@ -1,0 +1,15 @@
+.one {
+  margin: 55px auto;
+  color: white;
+  width: 500;
+  background-color: #008000;
+}
+
+.two {
+  margin: auto;
+  padding: 40px;
+  border: 40px;
+  color: white;
+  width: 600;
+  background-color: #0000FF;
+}

@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.main {
+    position: relative;
+    margin: 7px;
+    width: 99%;
+    border-style: solid;
+    border-width: 1.2px;
+    border-color: #228B22;
+    background-color: #00FFFF;
+}
+
+.list {
+
+    position: absolute;
+    width: 240px;
+    height: 85px;
+    color: #000000;
+    background-color: #FFE4C4;
+}
+
+ul {
+    text-align: left;
+    padding: 13px 0 0 37px;
+}
+
+.text {
+
+    position: relative;
+    margin-left: 240px;
+    color: #000000;
+    background-color: #A9A9A9;
+}

@@ -1,0 +1,23 @@
+.main {
+    background-color: #00FFFF;
+}
+
+.one {
+    float: left;
+    width: 200px;
+    background-color: #FFE4C4;
+}
+
+.two {
+    margin-left: 200px;
+    background-color: #A9A9A9;
+}
+
+.bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 90px;
+    width: 100%;
+    background-color: #32CD32;
+}
